@@ -16,7 +16,7 @@ This folder is ready to upload to GitHub Pages.
 Open `index.html` and find this line near the bottom:
 
 ```js
-const CONTACT_EMAIL = "investors@askiplex.com";
+const CONTACT_EMAIL = "info@askiplex.com";
 ```
 
 Replace it with your real investor contact email before publishing.
